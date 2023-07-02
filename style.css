@@ -1,0 +1,10 @@
+
+h1 {
+    color:darkblue
+}
+.menu-bar {
+    width: 38px;
+    height: 6px;
+    background-color: rgb(59, 3, 3);
+    margin: 6px 0;
+  }
